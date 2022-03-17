@@ -1,0 +1,223 @@
+#brandName {
+    font-family: 'Rochester';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;        
+}
+
+#brandN {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+}
+
+#banner {
+    width: 100%;
+    height: 100%;
+}
+
+#divSpan {
+    flex: 20;
+}
+
+#navbarNavAltMarkup {
+    display: inline-block;
+    width: 80px;    
+    height: 81px;    
+}
+
+#carrito {
+    align-self: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+#selectedCategoryTitle {
+    margin-top: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+}
+
+#footer {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+}
+
+.hr {
+    border: 1px solid #000000;
+}
+
+.card {     
+    margin: 10px;      
+}
+
+.navbarMobile {
+    background: #FDCD55;
+    color: #000000;    
+}
+
+
+.card-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+
+.card-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.cardImg {
+    position: relative;
+    left: 50%;
+    -ms-transform: translate(-50%);
+    transform: translate(-50%);
+    width: 175px;
+    height: 130px;
+}
+
+.cardUnitPrice {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.btn-card {
+    background: #F2A950;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    margin: 0;
+    position: relative;    
+    left: 50%;
+    -ms-transform: translate(-50%);
+    transform: translate(-50%);
+}
+
+.divTable {
+    width: 100%;
+    position: relative;    
+    left: 50%;
+    -ms-transform: translate(-50%);
+    transform: translate(-50%);
+}
+
+.btn-confirm {
+    width: 143px;
+    height: 48px;
+
+    background: #708C32;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.btn-cancel {
+    width: 95px;
+    height: 47px;
+
+    background: #8C162C;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.btn-modifyQty {
+    width: 31px;
+    height: 32px; 
+
+    background: #FDCD55;
+    border-radius: 3px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.popup {
+    position: absolute;
+    display: inline-block;
+    cursor: pointer;
+    top: 15%;
+    left: 15%;   
+}
+  
+.popuptext {
+    visibility: visible;
+    color: black;
+    text-align: left;
+    z-index: 1;
+    top: 100%;
+    left: 25%;    
+    border: solid;
+    padding: 10px;
+
+    position: absolute;
+    width: 1001px;
+    height: 447px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+  }
+
+.popup-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 56px;
+}
+
+.popup-question {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+}
